@@ -17,4 +17,9 @@ Before you download and use it, you should have minimum PHP 8.2, MySQL/MariaDB, 
 <li> 8. Visit here http://127.0.0.1:8000/vacancies to test the application</li>
 
 # Published By
+
 https://www.tutsmake.com/
+
+# Youtube Video on Laravel 11 CRUD with Image Upload Example
+
+https://youtu.be/PQ2RP6oRb1c
