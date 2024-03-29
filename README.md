@@ -24,4 +24,10 @@ https://www.tutsmake.com/
 
 https://youtu.be/PQ2RP6oRb1c
 
+#Laravel 11 CRUD with Image Upload Application:
+
 ![Laravel 11 CRUD with Image Upload Example](https://github.com/tutsmake/Laravel-11-CRUD-with-Image-Upload-Example/blob/main/laravel%2011%20crud%20with%20image%20upload%20example.png)
+![Add Form in CRUD Application](https://github.com/tutsmake/Laravel-11-CRUD-with-Image-Upload-Example/blob/main/laravel%2011%20crud%20with%20image%20upload%20add%20form.png)
+![Edit Form in CRUD Application](https://github.com/tutsmake/Laravel-11-CRUD-with-Image-Upload-Example/blob/main/laravel%2011%20crud%20with%20image%20upload%20edit%20page.png)
+
+
