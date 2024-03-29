@@ -1,6 +1,8 @@
 # Laravel 11 CRUD with Image Upload Example Tutorial
+
 Learn how to create an image upload with a simple Laravel 11 CRUD application.
-A step by step guide is available on my blog. Laravel 11 Image Upload with CRUD Application
+
+A step-by-step guide is available on laravel blog (tutsmake.com). Laravel 11 Image Upload with CRUD Application.
 
 # Prerequisite
 Before you download and use it, you should have minimum PHP 8.2, MySQL/MariaDB, and composer in your server.
