@@ -23,3 +23,5 @@ https://www.tutsmake.com/
 # Youtube Video on Laravel 11 CRUD with Image Upload Example
 
 https://youtu.be/PQ2RP6oRb1c
+
+![Laravel 11 CRUD with Image Upload Example](https://github.com/tutsmake/Laravel-11-CRUD-with-Image-Upload-Example/blob/main/laravel%2011%20crud%20with%20image%20upload%20example.png)
